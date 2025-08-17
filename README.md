@@ -1,4 +1,16 @@
-# Data Analytics Project Template
+# 📊 Data Analytics Project Template  
+
+This repository provides an **industry-standard project structure** for data analytics.  
+It is designed to help analysts start projects quickly, stay organized, and collaborate effectively.  
+
+## 🔑 Key Features  
+- 📂 Structured folders for raw, interim, and final data  
+- 📝 Predefined notebooks for cleaning, EDA, visualization, and reporting  
+- ⚙️ Config-driven setup for flexible project settings  
+- 🛠️ Scripts for data cleaning, SQL queries, and report generation  
+- 📊 Organized outputs: dashboards, figures, and summary reports  
+
+Use this template as a **starter kit** to build scalable and professional analytics projects.
 
 ## 📂 Project Structure
 ```
@@ -36,5 +48,4 @@ data_analytics_project_template/
 ├─ LICENCE                  # Open-source license
 ├─ README.md                # Project overview + instructions
 └─ requirements.txt         # Python dependencies
-
 ```
