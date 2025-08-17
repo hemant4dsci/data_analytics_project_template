@@ -1,4 +1,4 @@
-# Data Analyst Project Template
+# Data Analytics Project Template
 
 ## 📂 Project Structure
 ```
