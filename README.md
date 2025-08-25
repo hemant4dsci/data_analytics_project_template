@@ -19,9 +19,8 @@ data_analytics_project_template/
 │
 ├─ notebooks/               # 📒 Jupyter notebooks (exploration, EDA, visualization)
 │  ├─ 01_data_cleaning.ipynb
-│  ├─ 02_exploratory_analysis.ipynb
-│  ├─ 03_visualizations.ipynb
-│  └─ 04_reporting.ipynb
+│  ├─ 02_exploratory_data_analysis.ipynb
+│  ├─ 03_ml_models.ipynb
 │
 ├─ reports/                 # 📑 Deliverables for stakeholders
 │  ├─ dashboards/           # Power BI/Tableau/Looker dashboards
