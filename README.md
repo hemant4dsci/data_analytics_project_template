@@ -7,8 +7,6 @@ It is designed to help analysts start projects quickly, stay organized, and coll
 ```
 data_analytics_project_template/
 │
-├─ configs/                 # 🔑 Configuration files (DB, API, logging, etc.)
-│
 ├─ data/                    # 📊 Data storage
 │  ├─ final/                # Final datasets (ready for reporting/ML models)
 │  ├─ interim/              # Intermediate processed files
