@@ -1,1 +1,56 @@
+---
+title: "report name"
+author: "name"
+date: today
+format: pdf
+toc: true
+number-sections: true
+fontsize: 11pt
+---
 
+# Executive Summary
+
+---
+
+# Introduction & Business Context
+
+---
+
+# Project Objectives
+
+The project aims to:
+
+---
+
+# Dataset Description
+
+---
+
+# Data Preparation & Cleaning  
+
+---
+
+# Exploratory Data Analysis (EDA)  
+
+## Summary Statstics
+
+## Univariate Analysis  
+   
+## Time-Series Analysis  
+
+## Hypothesis Testing
+
+---
+
+# Key Insights
+
+---
+
+# Recommendations
+
+---
+
+# Conclusion
+
+---
+ 
