@@ -57,7 +57,7 @@ data_analytics_project_template/
 │
 ├─ scripts/                 # Reusable Python scripts
 │
-├─ sql/                     # All reusable SQL queries
+├─ sql_scripts/             # All reusable SQL queries
 │
 ├─ .gitignore               # Ignore data, logs, venv, credentials
 ├─ LICENCE                  # Open-source license
