@@ -4,6 +4,8 @@ author: "name"
 format: pdf
 toc: true
 number-sections: true
+mainfont: Arial
+monofont: Fira Code
 fontsize: 11pt
 geometry: top=0.7in, bottom=1.0in, left=0.8in, right=0.8in
 ---
