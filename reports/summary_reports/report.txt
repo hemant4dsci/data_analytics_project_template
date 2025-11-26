@@ -1,13 +1,17 @@
 ---
 title: "report name"
 author: "name"
-format: pdf
-toc: true
-number-sections: true
-mainfont: Arial
-monofont: Fira Code
-fontsize: 11pt
-geometry: top=0.7in, bottom=1.0in, left=0.8in, right=0.8in
+table-of-contents: true
+format:
+  pdf:
+    pdf-engine: lualatex
+    mainfont: Calibri
+    fontsize: 12pt
+    geometry:
+      - top=15mm
+      - bottom=25mm
+      - left=20mm
+      - right=20mm
 ---
 
 \clearpage
